@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Paket Korean Soy Garlic Wings",
+      "description": "xxx",
+      "price": 34000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112093.png?",
+      "list": "breakfast",
+      "authorId": "2",
+      "categoryId": "2",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 2,
+      "name": "Korean Soy Garlic Wings",
+      "description": "xxxx",
+      "price": 31000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112095.png?",
+      "list": "breakfast",
+      "authorId": 2,
+      "categoryId": 2,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 3,
+      "name": "Egg & Cheese Muffin",
+      "description": "xxxx",
+      "price": 19000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/116014.png?",
+      "list": "breakfast",
+      "authorId": 2,
+      "categoryId": 2,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 4,
+      "name": "Sausage Wrap",
+      "description": "xxxx",
+      "price": 26500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/136003.png?",
+      "list": "breakfast",
+      "authorId": 2,
+      "categoryId": 2,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 5,
+      "name": "coca cola",
+      "description": "xxxx",
+      "price": 9500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/184009.png?",
+      "list": "breakfast",
+      "authorId": 2,
+      "categoryId": 1,
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "name": "test",
+      "description": "df",
+      "price": "123",
+      "imgUrl": "sdmms",
+      "list": "",
+      "authorId": "",
+      "categoryId": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "id": 15
+    },
+    {
+      "name": "fuad",
+      "description": "df",
+      "price": "123",
+      "imgUrl": "sdmms",
+      "list": "",
+      "authorId": "",
+      "categoryId": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "id": 16
+    },
+    {
+      "name": "fuad",
+      "description": "df",
+      "price": "123",
+      "imgUrl": "sdmms",
+      "list": "",
+      "authorId": "",
+      "categoryId": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "regular",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 2,
+      "name": "breakfast",
+      "createdAt": "",
+      "updatedAt": ""
+    }
+  ]
+}

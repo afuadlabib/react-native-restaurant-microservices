@@ -1,0 +1,156 @@
+[
+  {
+      "id": "3067a682-d455-4b9f-9872-daf1483c5e60",
+      "name": "Korean Soy Garlic Wings",
+      "description": "xxxx",
+      "price": 31000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112095.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:24.671Z",
+      "updatedAt": "2023-09-09T20:39:24.671Z"
+  },
+  {
+      "id": "afc81913-e6da-490f-b965-60296e0c22c1",
+      "name": "Egg & Cheese Muffin",
+      "description": "xxxx",
+      "price": 19000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/116014.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:24.675Z",
+      "updatedAt": "2023-09-09T20:39:24.675Z"
+  },
+  {
+      "id": "f32834fa-e17c-4e29-82ce-2440cad96913",
+      "name": "Sausage Wrap",
+      "description": "xxxx",
+      "price": 26500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/136003.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:24.679Z",
+      "updatedAt": "2023-09-09T20:39:24.679Z"
+  },
+  {
+      "id": "16f4611a-eaea-460a-b8f7-2db79e071170",
+      "name": "coca cola",
+      "description": "xxxx",
+      "price": 9500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/184009.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "3f19ad44-58db-48c9-ae33-9f9e16ef7836",
+      "createdAt": "2023-09-09T20:39:24.684Z",
+      "updatedAt": "2023-09-09T20:39:24.684Z"
+  },
+  {
+      "id": "9f9d5d53-0bc3-489b-ad30-755eab099ad7",
+      "name": "Paket Korean Soy Garlic Wings",
+      "description": "xxx",
+      "price": 34000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112093.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:24.667Z",
+      "updatedAt": "2023-09-09T20:47:49.328Z"
+  },
+  {
+      "id": "c57730a7-3680-4248-8b34-f0ca5ba52a41",
+      "name": "Paket Korean Soy Garlic Wings",
+      "description": "xxx",
+      "price": 34000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112093.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:28.468Z",
+      "updatedAt": "2023-09-09T20:39:28.468Z"
+  },
+  {
+      "id": "7e074daa-6213-49ad-b28d-f5af8da7a985",
+      "name": "Korean Soy Garlic Wings",
+      "description": "xxxx",
+      "price": 31000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112095.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:28.486Z",
+      "updatedAt": "2023-09-09T20:39:28.486Z"
+  },
+  {
+      "id": "95b6d450-5cbd-4dec-befc-d2d9e8d3c3a5",
+      "name": "Egg & Cheese Muffin",
+      "description": "xxxx",
+      "price": 19000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/116014.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:28.495Z",
+      "updatedAt": "2023-09-09T20:39:28.495Z"
+  },
+  {
+      "id": "cd8590db-56b5-4714-b727-5060c5f3ea85",
+      "name": "Sausage Wrap",
+      "description": "xxxx",
+      "price": 26500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/136003.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:28.502Z",
+      "updatedAt": "2023-09-09T20:39:28.502Z"
+  },
+  {
+      "id": "a854b08b-c7c7-47e0-b569-02ce83f2cd0e",
+      "name": "coca cola",
+      "description": "xxxx",
+      "price": 9500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/184009.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "3f19ad44-58db-48c9-ae33-9f9e16ef7836",
+      "createdAt": "2023-09-09T20:39:28.524Z",
+      "updatedAt": "2023-09-09T20:39:28.524Z"
+  },
+  {
+      "id": "e9909c16-ca05-450b-8ed7-2c94f66a6126",
+      "name": "Paket Korean Soy Garlic Wings",
+      "description": "xxx",
+      "price": 34000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112093.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:21.492Z",
+      "updatedAt": "2023-09-09T20:39:21.492Z"
+  },
+  {
+      "id": "d06fdc6f-092f-46f9-aae1-7caf8a9c03e6",
+      "name": "Korean Soy Garlic Wings",
+      "description": "xxxx",
+      "price": 31000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/112095.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:21.495Z",
+      "updatedAt": "2023-09-09T20:39:21.495Z"
+  },
+  {
+      "id": "36a8e690-4ff6-4bd3-9882-fd9ab0494d21",
+      "name": "Egg & Cheese Muffin",
+      "description": "xxxx",
+      "price": 19000,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/116014.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:21.499Z",
+      "updatedAt": "2023-09-09T20:39:21.499Z"
+  },
+  {
+      "id": "18c658bf-9cc9-487b-a49f-d82ea991e539",
+      "name": "Sausage Wrap",
+      "description": "xxxx",
+      "price": 26500,
+      "imgUrl": "https://www.mcdelivery.co.id/id/static/1693767418031/assets/62/products/136003.png?",
+      "authorId": "694f4885-2c79-4d34-91fa-872b0847966a",
+      "categoryId": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+      "createdAt": "2023-09-09T20:39:21.503Z",
+      "updatedAt": "2023-09-09T20:39:21.503Z"
+  }
+]

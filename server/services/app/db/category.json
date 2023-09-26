@@ -1,0 +1,38 @@
+[
+    {
+        "id": "f3d772ae-f1bc-45ce-a349-e481060a6af5",
+        "name": "breakfast",
+        "createdAt": "2023-09-09T20:39:21.418Z",
+        "updatedAt": "2023-09-09T20:39:21.418Z"
+    },
+    {
+        "id": "7445b72d-3846-4365-ac26-6f15be601cbc",
+        "name": "regular",
+        "createdAt": "2023-09-09T20:39:24.589Z",
+        "updatedAt": "2023-09-09T20:39:24.589Z"
+    },
+    {
+        "id": "959d4010-bb39-4ed3-9ade-834f216fe0af",
+        "name": "breakfast",
+        "createdAt": "2023-09-09T20:39:24.589Z",
+        "updatedAt": "2023-09-09T20:39:24.589Z"
+    },
+    {
+        "id": "3b14f6c7-c4af-4643-ba62-badeef0c0574",
+        "name": "regular",
+        "createdAt": "2023-09-09T20:39:28.185Z",
+        "updatedAt": "2023-09-09T20:39:28.185Z"
+    },
+    {
+        "id": "70fc2e79-c56e-4819-8030-5be1fe73c28b",
+        "name": "breakfast",
+        "createdAt": "2023-09-09T20:39:28.185Z",
+        "updatedAt": "2023-09-09T20:39:28.185Z"
+    },
+    {
+        "id": "3f19ad44-58db-48c9-ae33-9f9e16ef7836",
+        "name": "regular",
+        "createdAt": "2023-09-09T20:39:21.418Z",
+        "updatedAt": "2023-09-09T20:48:00.310Z"
+    }
+]
